@@ -1,0 +1,10 @@
+/Users/jakobhoy/Desktop/Development/Dotnet/Azurepeakswebcomic/bin/Debug/netcoreapp2.0/Azurepeakswebcomic.deps.json
+/Users/jakobhoy/Desktop/Development/Dotnet/Azurepeakswebcomic/bin/Debug/netcoreapp2.0/Azurepeakswebcomic.runtimeconfig.json
+/Users/jakobhoy/Desktop/Development/Dotnet/Azurepeakswebcomic/bin/Debug/netcoreapp2.0/Azurepeakswebcomic.runtimeconfig.dev.json
+/Users/jakobhoy/Desktop/Development/Dotnet/Azurepeakswebcomic/bin/Debug/netcoreapp2.0/Azurepeakswebcomic.dll
+/Users/jakobhoy/Desktop/Development/Dotnet/Azurepeakswebcomic/bin/Debug/netcoreapp2.0/Azurepeakswebcomic.pdb
+/Users/jakobhoy/Desktop/Development/Dotnet/Azurepeakswebcomic/obj/Debug/netcoreapp2.0/Azurepeakswebcomic.csproj.CoreCompileInputs.cache
+/Users/jakobhoy/Desktop/Development/Dotnet/Azurepeakswebcomic/obj/Debug/netcoreapp2.0/Azurepeakswebcomic.AssemblyInfoInputs.cache
+/Users/jakobhoy/Desktop/Development/Dotnet/Azurepeakswebcomic/obj/Debug/netcoreapp2.0/Azurepeakswebcomic.AssemblyInfo.cs
+/Users/jakobhoy/Desktop/Development/Dotnet/Azurepeakswebcomic/obj/Debug/netcoreapp2.0/Azurepeakswebcomic.dll
+/Users/jakobhoy/Desktop/Development/Dotnet/Azurepeakswebcomic/obj/Debug/netcoreapp2.0/Azurepeakswebcomic.pdb
