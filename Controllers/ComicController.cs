@@ -46,6 +46,10 @@ namespace Azurepeakswebcomic.Controllers
             return View();
         }
 
+        public IActionResult Entry()
+        {    
+            return View();
+        }
 
         // Delete
 
