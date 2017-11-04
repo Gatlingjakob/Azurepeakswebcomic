@@ -46,8 +46,12 @@ namespace Azurepeakswebcomic.Controllers
             return View();
         }
 
-        public IActionResult Entry()
+        public IActionResult Entry(int id = 1)
         {    
+              ViewBag.number = id;
+
+            ViewBag.stud = db.Comics.ToList();
+            
             return View();
         }
 

@@ -1,5 +1,24 @@
 body {
     background-color: rgb(133, 202, 221);
-    width: 960px; margin: 0 auto; 
+    
+}
+
+.container {
+    text-align: center;
+}
+
+.content{
+    border: rgb(211, 96, 20) 4px solid; 
+    border-style : dashed;
+}
+
+.navButtons {
+    padding: 32px 16px;
+    border: 3px solid rgb(12, 11, 11);
+    background-color: rgb(211, 96, 20); 
+    font-size: 40px;
+    width: 100px;
+    height: 75px;
+    line-height: 0px;
 }
 
