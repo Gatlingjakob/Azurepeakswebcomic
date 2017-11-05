@@ -8,9 +8,13 @@
 <body>
     <div class="container">
         <hr>
-
-     <a href="Index"><button>View Entire Catalogue</button></a>
-      <a href="Create"><button>Create New Wine</button></a>
+    <h1>Get specific comic from database by entering its ID in the URL</h1>
+    <!-- <h1>Enter Comic ID at the end of URL before leaving page!</h1>
+    <p>(Relative pathing is currently standing in the way of being able to leave page without screwing up pathing scheme)</p> -->
+    <br>
+     <a href="../Index"><button>Archive</button></a>
+      <a href="../Create"><button>Create New Comic</button></a>
+      <a href="../Entry/1"><button>Back to Comic</button></a>
       
         <hr>
     <table class="table table-striped">
@@ -19,6 +23,7 @@
                 <th>Imgur-URL</th>
                 <th>Name</th>
                 <th>Date</th> 
+                <th>Image</th>  
               
             </tr>
 
@@ -30,7 +35,7 @@
                     <td> @stud.Imgurl </td>
                     <td> @stud.Name</td>
                     <td> @stud.Date </td> 
-                     <td><img src=@x alt="image" /></td>
+                     <td><img src=@x alt="image" height="100" width="100"/></td>
                 </tr>
             }
         }

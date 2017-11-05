@@ -55,6 +55,15 @@ namespace Azurepeakswebcomic.Controllers
             return View();
         }
 
+         public IActionResult AdminLogin()
+        {
+            string username = "jaks";
+            string password = "1337";
+            ViewBag.usn= username;
+            ViewBag.pwd= password;       
+            return View();
+        }
+
         // Delete
 
         // Update
